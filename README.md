@@ -13,7 +13,7 @@ Here's an overview of the concepts covered so far:
 - **langchain_structured_output**: Extracting structured output using TypedDict, Pydantic, and JSON schemas.
 - **output_parsers**: Utilizing String, JSON, Structured, and Pydantic output parsers.
 - **chains**: Building Simple, Sequential, Parallel, and Conditional chains.
-- **runnables**: Exploring the LangChain Expression Language (LCEL) and custom runnables.
+- **runnables**: Exploring the LangChain Expression Language (LCEL), including `RunnableSequence`, `RunnableParallel`, `RunnablePassthrough`, `RunnableLambda`, `RunnableBranch`, and custom runnables.
 
 ## Setup & Installation
 
