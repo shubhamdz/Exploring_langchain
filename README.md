@@ -14,6 +14,7 @@ Here's an overview of the concepts covered so far:
 - **output_parsers**: Utilizing String, JSON, Structured, and Pydantic output parsers.
 - **chains**: Building Simple, Sequential, Parallel, and Conditional chains.
 - **runnables**: Exploring the LangChain Expression Language (LCEL), including `RunnableSequence`, `RunnableParallel`, `RunnablePassthrough`, `RunnableLambda`, `RunnableBranch`, and custom runnables.
+- **data_loader**: Loading various document types like text, CSV, and PDFs.
 
 ## Setup & Installation
 
