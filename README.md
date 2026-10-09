@@ -16,6 +16,7 @@ Here's an overview of the concepts covered so far:
 - **runnables**: Exploring the LangChain Expression Language (LCEL), including `RunnableSequence`, `RunnableParallel`, `RunnablePassthrough`, `RunnableLambda`, `RunnableBranch`, and custom runnables.
 - **data_loader**: Loading various document types like text, CSV, and PDFs.
 - **text_splitter**: Splitting documents into chunks using length-based (character and token) strategies.
+- **vector_db**: Working with vector databases using ChromaDB for storing and querying embeddings.
 
 ## Setup & Installation
 
