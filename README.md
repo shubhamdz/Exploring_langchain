@@ -17,6 +17,7 @@ Here's an overview of the concepts covered so far:
 - **data_loader**: Loading various document types like text, CSV, and PDFs.
 - **text_splitter**: Splitting documents into chunks using length-based (character and token) strategies.
 - **vector_db**: Working with vector databases using ChromaDB for storing and querying embeddings.
+- **retrievers**: Implementing various LangChain retrievers for document retrieval from vector stores.
 
 ## Setup & Installation
 
