@@ -20,6 +20,7 @@ Here's an overview of the concepts covered so far:
 - **retrievers**: Implementing various LangChain retrievers for document retrieval from vector stores.
 - **miniRAGproject**: A mini Retrieval-Augmented Generation (RAG) project built using LangChain.
 - **tools**: Exploring LangChain tools, custom tool creation, raw and structured tool calling workflows, and building practical projects with tools.
+- **agents**: Building AI agents in LangChain that leverage LLM reasoning and tools dynamically to solve complex tasks.
 
 ## Setup & Installation
 
@@ -40,4 +41,4 @@ GOOGLE_API_KEY=your_google_api_key
 ```
 
 ## Journey
-I am actively learning LangChain, so this repository will keep growing as I explore more advanced features like Agents, Memory, Tools, and Vector Databases. Stay tuned!
+This concludes the core foundational learning of LangChain (from LLMs, prompts, and LCEL to Vector DBs, RAG, tools, and agents)! The next phase will focus on creating end-to-end autonomous agents. Stay tuned!
