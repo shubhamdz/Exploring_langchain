@@ -19,6 +19,7 @@ Here's an overview of the concepts covered so far:
 - **vector_db**: Working with vector databases using ChromaDB for storing and querying embeddings.
 - **retrievers**: Implementing various LangChain retrievers for document retrieval from vector stores.
 - **miniRAGproject**: A mini Retrieval-Augmented Generation (RAG) project built using LangChain.
+- **tools**: Exploring LangChain tools for extending LLM capabilities with external functions and APIs.
 
 ## Setup & Installation
 
